@@ -1,0 +1,38 @@
+.bg1{
+	background-color: black;
+}
+.sub{
+	background-color: #000;
+}
+.padding{
+	padding-top: 10px;
+}
+
+.margin{
+	padding-top: 30px !important;
+}
+.margin-1{
+	margin-right:110px !important;
+}
+.img{
+	width: 100px !important;
+	height: 100px !important;
+}
+.margin-2{
+	#margin-right: 110px !important;
+	width: 300px;
+
+}
+.lap{
+	width: 600px !important;
+	height: 200px !important;
+}
+button{
+	padding-bottom: 10px;
+}
+#.vv{
+	margin-right: 110px !important;
+}
+#.width{
+	padding-left: 300px !important;
+}

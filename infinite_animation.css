@@ -1,0 +1,16 @@
+.icon {
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	font-size: 60px;
+	animation: demo 2s 0s linear infinite;
+}
+
+@keyframes demo {
+	0% {
+		transform: translateY(0px);
+	}
+	100% {
+		transform: translateY(50px);
+	}
+}

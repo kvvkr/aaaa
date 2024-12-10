@@ -1,0 +1,16 @@
+.bg-image {
+	background-image: url('vamsi.jpg');
+	height: 600px;
+}
+
+.bg-primary {
+	background-color: #0622a0 !important;
+}
+
+.py-5 {
+	padding: 100px 0px !important;
+}
+
+.margin-top-50 {
+	margin-top: 50px;
+}

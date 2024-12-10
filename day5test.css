@@ -1,0 +1,26 @@
+
+body {
+	overflow-x: hidden;
+}
+
+.bg-primary{
+	background-color: navy !important;
+
+}
+.border-success{
+	border-bottom: 4px solid orange !important;
+}
+.row .text-orange{
+	color: #f9101a;
+}
+.bgimg{
+	background-image: url('laptop typing.jpg');
+	height: 250px;
+	background-position: left;
+}
+.sub{
+	background-color: red;
+}
+.bg{
+	background-color: grey;
+}
